@@ -8,5 +8,4 @@ As a result, another advantage of the suggested system user interface design is 
 consistency, and usability so that the user may use the system effectively and efficiently.
 
 #Run
-You need to install some pakages in your local devise to run the program
-Feel free to edit or improve the project
+You need to install some packages in your local device to run the program and feel free to edit or improve the project
