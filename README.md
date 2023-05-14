@@ -59,7 +59,7 @@ This section describes the request details display page that appears when a user
 
 ##Future enhancements
 
-The web application currently offers satisfactory services for all users. However, the developers aim to enhance the app's capabilities in the future by extending its services to developers. This will allow for greater feedback from users on how features can be developed or improved for specific apps, whether on iOS or Android platforms. The developers believe that this will result in an app that is more efficient and capable of achieving diverse objectives.
+The web application currently offers satisfactory services for all users. However, the developers aim to enhance the app's capabilities in the future by extending its services to developers. This will allow for greater feedback from users on how features can be developed or improved for specific apps, whether on iOS or Android platforms. The developers believe that this will result in an app that is more efficient and capable of achieving diverse objectives. Moreover, the developer aims to create a shapely layout design to introduce the web app in an interesting way to the stakeholders.
 
 
 
