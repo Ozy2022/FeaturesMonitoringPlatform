@@ -30,3 +30,4 @@ mongoose.connect(CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: tr
     .catch((error) => console.log(`${error} did not connect`));
 
 mongoose.connect(CONNECTION_URL).then(()=>{console.log('...')})
+
