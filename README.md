@@ -14,7 +14,7 @@ web browser	              -        Google Chrome
 
 
 
-A MERN-based web application called FMP (Feature Management Platform) includes authentication, pagination, and comments to carry user requests and interest
+A MERN-based web application called FMP (Feature Monitoring Platform) includes authentication, pagination, and comments to carry user requests and interest
 to developers. Users, developers, or companies can create their own account and follow specific procedures to achieve the system's purpose. Users can submit a feature suggestion and
 communicate with other users. Other users can see the request, vote for it as a like feature, and chat with each other to express their ideas. Developers and companies have similar
 practical steps that enable them to see requests and respond to users.
