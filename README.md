@@ -1,4 +1,4 @@
-# Social_Platform
+# Features_Monitoring_Platform
 
 #Overview
 
@@ -14,7 +14,7 @@ web browser	              -        Google Chrome
 
 
 
-A MERN-based web application called a Social Platform includes authentication, pagination, and comments to carry user requests and interest
+A MERN-based web application includes authentication, pagination, and comments to carry user requests and interest
 to developers. Users, developers, or companies can create their own accounts and follow specific procedures to achieve the system's purpose. Users can submit a feature suggestion and
 communicate with other users. Other users can see the request, vote for it as a like feature, and chat with each other to express their ideas. Developers and companies have similar
 practical steps that enable them to see requests and respond to users.
@@ -24,7 +24,7 @@ practical steps that enable them to see requests and respond to users.
 
 1-Sign_up, Sign_in
 
-New users must go to this page by clicking on the third option on the sign-in page, and there is also the possibility of automatic registration through Google API. Otherwise, if the users have an account, they can only sign-in or use the automatic registration through Google API.
+New users must go to this page by clicking on the third option on the sign-in page, and there is also the possibility of automatic registration through Google API. Otherwise, if the users have an account, they can only sign in or use the automatic registration through Google API.
 
 ![Capture](https://github.com/Ozy2022/FeaturesMonitoringPlatform/assets/96604157/0b1f621a-b766-4a3b-854f-9f4a7a1eb8f7)
 
